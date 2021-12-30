@@ -1,2 +1,2 @@
-# Course_Project_Public_Algorithm
+### Course Project / Algorithm Analysis and Design
 Course Assignments for Algorithm Analysis &amp; Design Tongji Univ
